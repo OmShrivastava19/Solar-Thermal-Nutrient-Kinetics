@@ -1,0 +1,396 @@
+run_id,time_min,solar_irradiance_W_m2,ambient_temp_C,absorber_temp_C,food_temp_C,food_matrix,cooker_type,mass_kg,source_file
+20170314_Set1_Frying,0,817.81,39.2,234.55,27,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,1,817.81,39.2,226.6,31.4,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,2,817.81,39.2,227.7,54.8,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,3,817.81,39.2,227.5,71.8,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,4,817.81,39.2,228.4,88.9,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,5,817.81,39.2,227.4,105.3,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,6,817.81,39.2,226.85,111.7,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,7,817.81,39.2,226.1,128.9,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,8,817.81,39.2,225.7,134.8,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,9,817.81,39.2,225.2,149.8,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,10,817.81,39.2,224.65,165.6,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,11,817.81,39.2,224.2,180.4,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,12,817.81,39.2,221.25,143.8,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,13,817.81,39.2,220,162.3,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,14,817.81,39.2,220.25,181.3,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,15,817.81,39.2,218.55,160.8,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,16,817.81,39.2,219.35,178.4,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170314_Set1_Frying,17,817.81,39.2,218.85,175.4,Potato chips,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,0,616.9153,39,230.8,30.7,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,2,616.9153,39,229.65,44.5,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,4,616.9153,39,223.1,69.2,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,6,616.9153,39,226.05,82.7,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,8,616.9153,39,226.5,98.4,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,10,616.9153,39,227.3,100.8,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,12,616.9153,39,226.95,100.9,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,14,616.9153,39,226.6,101.2,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,16,616.9153,39,225.95,101.1,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,18,616.9153,39,225.45,100.9,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,20,616.9153,39,224.9,30.4,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,22,616.9153,39,218.25,42.8,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,24,616.9153,39,219.6,65.3,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,26,616.9153,39,220.1,77.1,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,28,616.9153,39,220.4,90.3,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,30,616.9153,39,220.35,97.4,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,32,616.9153,39,219.95,101.1,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,34,616.9153,39,219.55,100.9,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,36,616.9153,39,219,101.3,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,38,616.9153,39,217.8,100.9,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+20170426_Set2_Rice,40,616.9153,39,217.2,101,Rice,Thermal storage solar cooker,0.25,http://doi.org/10.1016/j.solmat.2020.110394
+HotPot_Panel,0,700,25,34.3,34.3,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,10,700,25,43,43,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,20,700,25,50.8,50.8,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,30,700,25,57.8,57.8,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,40,700,25,63.7,63.7,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,50,700,25,68.8,68.8,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,60,700,25,72.8,72.8,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,70,700,25,79.1,79.1,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,80,700,25,80.8,80.8,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,90,700,25,82.2,82.2,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,100,700,25,83.7,83.7,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,110,700,25,84.6,84.6,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,120,700,25,84.8,84.8,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,130,700,25,84.7,84.7,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,140,700,25,85.4,85.4,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,150,700,25,86.2,86.2,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,160,700,25,86.9,86.9,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,170,700,25,87.5,87.5,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,180,700,25,88.4,88.4,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,190,700,25,35,35,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,200,700,25,40.1,40.1,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,210,700,25,33.8,33.8,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,220,700,25,41.4,41.4,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,230,700,25,48.6,48.6,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,240,700,25,54.4,54.4,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,250,700,25,59.8,59.8,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,260,700,25,63.9,63.9,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,270,700,25,68,68,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,280,700,25,70.9,70.9,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,290,700,25,73.7,73.7,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,300,700,25,75.6,75.6,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,310,700,25,77.2,77.2,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,320,700,25,78.3,78.3,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,330,700,25,77.7,77.7,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,340,700,25,77.9,77.9,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,350,700,25,78.1,78.1,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,360,700,25,33.8,33.8,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,370,700,25,39.5,39.5,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,380,700,25,44.8,44.8,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,390,700,25,50.6,50.6,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,400,700,25,58.9,58.9,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,410,700,25,63.3,63.3,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,420,700,25,67.3,67.3,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,430,700,25,72.7,72.7,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,440,700,25,75.1,75.1,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,450,700,25,76.3,76.3,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,460,700,25,78.5,78.5,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,470,700,25,78.9,78.9,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,480,700,25,80.4,80.4,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,490,700,25,83.1,83.1,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,500,700,25,85.5,85.5,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,510,700,25,85.5,85.5,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+HotPot_Panel,520,700,25,88.3,88.3,Water (test medium),panel,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,0,700,25,77.9,77.9,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,10,700,25,80.8,80.8,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,20,700,25,83.5,83.5,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,30,700,25,86.4,86.4,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,40,700,25,32.3,32.3,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,50,700,25,36.3,36.3,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,60,700,25,40.3,40.3,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,70,700,25,44.2,44.2,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,80,700,25,47.9,47.9,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,90,700,25,51.9,51.9,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,100,700,25,55.8,55.8,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,110,700,25,59.3,59.3,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,120,700,25,63,63,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,130,700,25,66.6,66.6,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,140,700,25,69.9,69.9,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,150,700,25,72.8,72.8,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,160,700,25,75.5,75.5,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,170,700,25,30.6,30.6,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,180,700,25,32.3,32.3,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,190,700,25,32.5,32.5,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,200,700,25,35.5,35.5,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,210,700,25,42.2,42.2,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,220,700,25,45.7,45.7,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,230,700,25,50,50,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,240,700,25,56,56,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,250,700,25,59.4,59.4,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,260,700,25,65.9,65.9,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,270,700,25,73.1,73.1,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,280,700,25,76.9,76.9,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+GlobalSunOven_Box,290,700,25,85.1,85.1,Water (test medium),box,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,0,700,25,35,35,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,10,700,25,44.9,44.9,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,20,700,25,54.2,54.2,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,30,700,25,62.5,62.5,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,40,700,25,69.9,69.9,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,50,700,25,77.1,77.1,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,60,700,25,83.2,83.2,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,70,700,25,35.3,35.3,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,80,700,25,69.1,69.1,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,90,700,25,76.1,76.1,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,100,700,25,82,82,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,110,700,25,87.9,87.9,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,120,700,25,34.6,34.6,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,130,700,25,43,43,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,140,700,25,51.3,51.3,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,150,700,25,59.1,59.1,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,160,700,25,66,66,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,170,700,25,72.5,72.5,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,180,700,25,78.3,78.3,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,190,700,25,83.8,83.8,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,200,700,25,34.5,34.5,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,210,700,25,43.6,43.6,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,220,700,25,51.6,51.6,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,230,700,25,59.3,59.3,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,240,700,25,35.1,35.1,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,250,700,25,42.2,42.2,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,260,700,25,49.2,49.2,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,270,700,25,56.1,56.1,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,280,700,25,72.5,72.5,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,290,700,25,86,86,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+SunChef_Parabolic,300,700,25,54.1,54.1,Water (test medium),parabolic,1,https://catalog.data.gov/dataset/solar-cooker-test-data-per-asae-s580-1-nov2013-american-society-of-agricultural-and-biolog
+2017-06_Stagnation,0,234.5,23.8,27.4,24,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,20,250.4,25.1,42.8,28.7,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,40,295.6,25.7,54,40,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,60,315.9,25.6,59,52,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,80,444.2,25.3,70,68.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,100,520.6,26.4,81.5,75,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,120,656.3,27.6,88.7,82,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,140,674.8,28.5,97.8,88,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,160,660.6,30.7,105.6,96,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,180,779.5,31.6,109.9,99.3,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,200,889.9,33.5,114.3,99.6,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,220,810.7,30.5,115,98.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,240,792.1,31.2,114,97.1,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,260,795.2,30.6,113,98,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,280,754.3,28,114.3,99.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,300,700.4,27.6,112,100.8,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,320,670.6,28.3,111.5,100,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,340,548.6,27.9,115,99.4,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,360,485.8,27.4,105,91,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,380,473.3,26.7,88,79,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,400,429.7,25.7,71,73,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-06_Stagnation,420,383.5,25.1,58,60,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,0,164.5,20.7,30.5,29,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,20,180.4,22,35,31.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,40,285.6,25.6,49,46.2,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,60,455.95,25.5,56.6,55.6,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,80,324.2,24.2,72,67.4,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,100,440.6,29.1,77.3,73.7,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,120,556.3,30.3,86.5,84.1,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,140,494.8,31.1,105,103.7,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,160,590.6,28.8,112,109,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,180,659.5,32.7,105,104,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,200,579.9,30.6,109,108.1,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,220,663.7,34.2,106,100.7,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,240,722.1,31.9,108,102.9,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,260,585.2,34.3,106,103.2,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,280,684.3,31.5,110,106.7,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,300,690.41,31.6,108,105.1,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,320,560.6,32.6,101,98.09,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,340,678.6,27.6,103,100.9,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,360,615.89,28.6,91.8,87.2,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,380,503.3,25.9,85.9,88.7,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,400,449.7,24.9,72.7,81.7,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-08_Stagnation,420,373.5,24.3,66.8,77.77,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,0,250,23.36,25.9,25.32,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,20,390,24.9,36.5,27.77,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,40,444.6,28.26,47.6,35.42,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,60,494.9,24.8,57.9,48.82,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,80,520.4,24.86,68.4,58.52,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,100,669.6,25.46,72.8,69.22,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,120,685.3,27.16,86.7,83.12,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,140,753.8,25.56,105.1,99.72,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,160,750,32.96,110.1,108,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,180,870,28.96,111.1,103,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,200,800.9,34.76,111.1,104.1,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,220,852.7,30.26,101.1,96.72,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,240,821.1,31.06,100.1,96.42,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,260,846.3,27.96,98.7,96.72,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,280,740.7,30.26,100,94.72,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,300,820.7,28.4,94.7,93.12,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,320,790.9,24.6,101.1,98.11,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,340,840.4,27.7,97.9,93.92,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,360,754.89,27.8,91.5,84.22,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,380,632.3,25.9,79.4,80.72,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,400,648.7,24.6,60.9,68.72,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-10_Stagnation,420,540,24.1,51.3,56.79,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,0,254.5,25.7,31.9,28.4,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,20,280.4,27.4,42.4,38.9,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,40,395.6,31,54.3,50.8,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,60,445.95,30.6,61.4,57.9,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,80,514.2,29.2,69,65.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,100,640.6,32.4,80.3,76.8,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,120,751.3,31.9,99.6,96.1,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,140,709.8,32.3,102.8,99.3,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,160,805.6,32.5,106.9,102.3,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,180,874.5,33.4,105.6,101,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,200,794.9,29.3,106.1,101.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,220,878.7,31.2,106.1,101.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,240,937.1,30.5,104.1,99.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,260,760.2,30.1,102.9,98.3,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,280,827.3,29.1,96.4,91.8,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,300,833.4,29.2,105.2,100.6,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,320,780.6,30.4,103.3,98.7,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,340,748.6,27.3,103.3,102.9,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,360,715.8,29,93.2,94,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,380,643.3,27.3,88.2,89,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,400,567.7,25.4,74,74.8,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-12_Stagnation,420,473.5,24.8,59.4,60.2,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,0,830,25.9,35.4,29.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,20,870,27.5,49,37.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,40,850,27.8,57,51,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,60,912,27.8,62,58.9,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,80,976,30.4,73,65.2,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,100,985,29,83.8,75,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,120,981,31.2,98.5,87.9,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,140,974,28.1,113.7,104,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,160,974,32.3,121.7,112.8,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,180,960,30.7,124.8,107.8,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,200,948,34.1,124.7,108.4,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,220,939,36.1,115.4,101,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,240,990,34.8,114,101.2,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,260,935,31.7,112,98,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,280,934,29.6,113.3,99.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,300,830,25.7,110,97.9,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,320,786,28.9,114.3,102,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,340,696,29,109,100.7,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,360,580,27.5,105,91,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,380,469,27.7,87.4,79,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,400,450,26.7,72.4,73,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-02_Stagnation,420,410,25.1,61,63,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,0,680,25.4,31.7,30,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,20,720,25.72,42.3,34.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,40,730,28.7,53.9,48.86,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,60,762,26.22,61,57.76,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,80,926,25.46,74,69.35,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,100,935,26.06,77.6,72.94,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,120,991,27.76,90.5,85.84,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,140,984,30.53,110.1,106.7,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,160,984,35,118.4,108.9,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,180,970,29.26,110.3,103.9,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,200,918,35.06,116.3,109.9,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,220,909,35.13,108.9,102.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,240,960,35.93,110.8,102.2,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,260,905,32.83,113.2,104.6,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,280,904,33.86,111.2,102.6,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,300,800,29.96,103.9,96.4,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,320,756,28.26,108.9,101.4,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,340,766,32.64,98.96,97.2,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,360,650,32.64,89.26,87.5,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,380,574,30.34,75.43,78,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,400,455,28.16,67.24,72,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-04_Stagnation,420,375,27.56,51.22,59.17,Chamber air (proxy),Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,0,336.1,23.3,30,27.8,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,20,415.6,24.8,41.3,36.1,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,40,470.4,25.5,51.5,45.3,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,60,585.4,25.2,64.7,60.8,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,80,547.2,25.1,73.6,70,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,100,554.3,26.4,85.7,82.4,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,120,600.4,27.3,97.8,94.7,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,140,643.2,28.6,105,99.3,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,160,662.3,30.4,107.4,99.8,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,180,684.5,31.4,114.8,99.8,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,200,694.3,33.1,115.3,100,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,220,700.3,32.9,103.7,99.6,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,240,699.3,32.6,102.4,98.9,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,260,686.7,33.9,111.8,100,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,280,660.1,33,100,97,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,300,636.8,31.7,94.6,92,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,320,595.6,30.2,80.4,76,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,340,555.1,27.9,66,66,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,360,519.4,27.8,59.7,61.7,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,380,467.4,26.8,50,57.9,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,400,400.3,25.4,48.3,53.8,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-07_Sensible,420,365,25,45,50,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,0,204.5,21.4,27,25,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,20,220.4,22.7,42.5,40.5,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,40,325.6,26.3,51,49,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,60,495.95,26.2,61.4,58.4,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,80,364.2,22.9,63.2,61.2,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,100,580.6,31.5,71.5,69.5,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,120,696.3,32.7,88.9,87.4,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,140,634.8,30.6,106.8,100,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,160,730.6,28.3,106.5,99.7,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,180,799.5,32.2,103.7,99.7,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,200,719.9,30.1,103,99,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,220,803.7,36.6,101,97,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,240,722.1,34.3,101.2,97.2,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,260,755.2,36.7,98.8,96,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,280,824.3,32.1,92.3,89.5,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,300,830.41,31.2,102.7,97.9,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,320,700.6,32.9,100.8,96,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,340,618.6,31,104.5,99.7,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,360,555.89,29.5,89,85.5,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,380,543.3,27.3,78.5,82,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,400,489.7,25.3,65.5,69,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-09_Sensible,420,353.5,24.7,51.5,55,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,0,254.5,24.2,29.5,26,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,20,280.4,27,45,36.5,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,40,395.6,30.6,56.9,48.4,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,60,545.95,30.2,65,55.5,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,80,414.2,26.9,67.7,63.1,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,100,640.6,32.7,79,74.4,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,120,751.3,34,98.3,93.7,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,140,709.8,30.7,100.5,95.9,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,160,805.6,30.9,101.2,96.6,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,180,874.5,31.8,101,95.3,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,200,794.9,27.7,99,93.3,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,220,878.7,32.2,90.8,93.3,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,240,937.1,29.9,88.8,91.3,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,260,760.2,30.8,87.6,90.1,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,280,727.3,28.6,81.1,83.6,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,300,633.41,28.7,89.9,92.4,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,320,730.6,29.4,88,90.5,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,340,648.6,28.5,92.2,94.7,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,360,555.89,27.2,83.3,85.8,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,380,433.3,25.5,76,80.8,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,400,379.7,23.6,61.8,66.6,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2017-11_Sensible,420,353.5,23,52.2,59,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,0,790,25.1,26,21,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,20,830,25.8,27,25,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,40,810,26.9,38.5,36,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,60,872,27.4,54.3,47,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,80,936,28.7,68.4,61.4,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,100,945,29.6,82.5,80,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,120,941,31,98.6,97.3,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,140,934,31.2,108,99.6,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,160,934,30.9,115.7,100,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,180,920,31.8,113.7,99.4,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,200,908,31.2,108,93,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,220,899,31.5,112.4,97.4,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,240,950,31.7,113,99.1,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,260,895,30.7,114.3,99.8,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,280,894,29.7,113.4,96,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,300,790,30.8,110.8,87,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,320,546,29.9,108.6,83.7,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,340,756,31.4,106.1,83,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,360,540,30.7,101,84.8,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,380,329,30.8,89,80,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,400,210,30.1,72.1,76.9,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-01_Sensible,420,170,29.7,60,74,Water,Parabolic dish solar cooker,0.5,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,0,810,23,29.6,23.4,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,20,850,25.3,30.6,29.6,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,40,830,26.4,42.1,40.5,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,60,980,26.9,57.9,52.7,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,80,920,27.2,72,64.2,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,100,999,28.1,86.1,81.3,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,120,990,29,102.2,94.9,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,140,954,30.2,109.3,97.2,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,160,954,28.6,117,97.6,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,180,940,29.5,115,97,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,200,928,28.9,109.3,95,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,220,919,29.2,113.7,95.9,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,240,970,31.5,114.3,97.6,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,260,915,32.7,115.6,99.9,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,280,914,31.1,114.7,100,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,300,810,30.9,112.1,98.3,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,320,776,27.6,109.9,97.3,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,340,676,29.1,107.4,91.4,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,360,560,29.7,103.1,86,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,380,449,29.8,91.1,87.8,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,400,330,29.1,82.4,83,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
+2018-03_Stagnation,420,290,28.7,70.8,79.9,Water-temperature proxy from Tw,Parabolic dish solar cooker,0,https://data.mendeley.com/datasets/szp4hfdymy/1
